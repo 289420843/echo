@@ -54,8 +54,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/289420843/gommon/color"
-	"github.com/289420843/gommon/log"
+	"github.com/labstack/gommon/color"
+	"github.com/labstack/gommon/log"
 	"golang.org/x/crypto/acme/autocert"
 )
 

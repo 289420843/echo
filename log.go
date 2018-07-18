@@ -3,7 +3,7 @@ package echo
 import (
 	"io"
 
-	"github.com/289420843/gommon/log"
+	"github.com/labstack/gommon/log"
 )
 
 type (

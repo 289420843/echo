@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/289420843/echo"
-	"github.com/289420843/gommon/color"
+	"github.com/labstack/gommon/color"
 	"github.com/valyala/fasttemplate"
 )
 

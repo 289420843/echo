@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/289420843/echo"
-	"github.com/289420843/gommon/random"
+	"github.com/labstack/gommon/random"
 	"github.com/stretchr/testify/assert"
 )
 

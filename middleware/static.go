@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/289420843/echo"
-	"github.com/289420843/gommon/bytes"
+	"github.com/labstack/gommon/bytes"
 )
 
 type (
