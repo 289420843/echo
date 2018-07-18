@@ -14,7 +14,7 @@
   version = "v3.2.0"
 
 [[projects]]
-  name = "github.com/labstack/gommon"
+  name = "github.com/289420843/gommon"
   packages = ["bytes","color","log","random"]
   revision = "6fe1405d73ec4bd4cd8a4ac8e2a2b2bf95d03954"
   version = "0.2.4"

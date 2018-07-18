@@ -26,7 +26,7 @@
   version = "3.2.0"
 
 [[constraint]]
-  name = "github.com/labstack/gommon"
+  name = "github.com/289420843/gommon"
   version = "0.2.4"
 
 [[constraint]]

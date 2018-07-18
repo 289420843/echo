@@ -8,8 +8,8 @@ Example:
   import (
     "net/http"
 
-    "github.com/labstack/echo"
-    "github.com/labstack/echo/middleware"
+    "github.com/289420843/echo"
+    "github.com/289420843/echo/middleware"
   )
 
   // Handler
@@ -54,8 +54,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/labstack/gommon/color"
-	"github.com/labstack/gommon/log"
+	"github.com/289420843/gommon/color"
+	"github.com/289420843/gommon/log"
 	"golang.org/x/crypto/acme/autocert"
 )
 

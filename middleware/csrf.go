@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/gommon/random"
+	"github.com/289420843/echo"
+	"github.com/289420843/gommon/random"
 )
 
 type (
