@@ -1,0 +1,6 @@
+1.为了方便bind 函数, 特意修改 bind.go 文件 96行  兼容 json tag
+
+inputFieldName = typeField.Tag.Get("json")
+			if inputFieldName == "" {
+				inputFieldName = typeField.Name
+			}
